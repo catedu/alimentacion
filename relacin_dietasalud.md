@@ -2,7 +2,7 @@
 
 La nueva situación alimentaria en Europa, donde existe suficiente comida para todos, donde el hambre y la desnutrición manifiesta se reduce a grupos muy marginales y específicos de población, y donde la sobreproducción resulta, precisamente, el gran problema, se nos presenta con nuevos retos, de entre los que la creciente preocupación por la relación dieta-salud constituye el más importante.
 
-**Relación dieta-salud**
+### Relación dieta-salud
 
 Para comprender los cambios sanitarios que se están produciendo en Europa, hay que considerar los cambios en los estilos de vida de sus habitantes y, muy especialmente, de sus hábitos alimentarios. La nutrición en Europa se mueve alrededor de tres escenarios distintos: La **Europa del Norte**, con perfiles nutricionales poco saludables en el pasado, pero que en algunos países se están modificando actualmente gracias a políticas adecuadas; la **Europa del Este**, con unos hábitos alimentarios y unos indicadores sanitarios que empeoran día a día, como consecuencia de unos cambios socioeconómicos muy agudos, y de políticas sanitarias erróneas en el pasado y, por último, la **Europa Mediterránea**, que se debate entre conservar su positiva alimentación tradicional o adoptar patrones dietéticos foráneos, precisamente aquellos que los propios países anglosajones están tratando de corregir.
 

@@ -2,11 +2,11 @@
 
 # Objetivo del capítulo
 
-Determinar qué se entiende por “alimento”, analizar cómo se clasifican los alimentos en función de sus propiedades nutricionales y conocer de dónde proceden.
+> Determinar qué se entiende por “alimento”, analizar cómo se clasifican los alimentos en función de sus propiedades nutricionales y conocer de dónde proceden.
 
 # Concepto clave
 
-_Alimento_: todo aquel producto que una vez consumido aporta materiales asimilables que cumplen una función vital en el organismo.
+> _Alimento_: todo aquel producto que una vez consumido aporta materiales asimilables que cumplen una función vital en el organismo.
 
 Un **alimento** es todo producto, que por sus componentes químicos y por sus características organolépticas, puede formar parte de una dieta con el objeto de calmar el hambre, satisfacer el apetito y aportar los nutrientes y la energía necesarios para mantener la salud. Las características organolépticas son las propiedades de los alimentos que percibimos a través de los órganos de los sentidos, es decir, sabor, olor, color y textura. Hambre y apetito no son lo mismo, aunque ambos impulsan la acción de comer. Hambre es la necesidad fisiológica de energía y nutrientes. Apetito es la necesidad psicológica que nos impulsa a repetir sensaciones placenteras asociadas a determinados alimentos. Cuando tenemos hambre, comemos cualquier cosa; sin embargo, el apetito nos mueve hacia un determinado alimento, por ejemplo, el chocolate. La dieta es el conjunto de alimentos que forman parte de nuestras costumbres alimentarias.
 

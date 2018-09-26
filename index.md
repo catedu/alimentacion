@@ -2,11 +2,11 @@
 
 # Objetivo del capítulo
 
-Responder a los primeros conceptos clave y demostrar el papel activo que todos tenemos ante la alimentación.
+> Responder a los primeros conceptos clave y demostrar el papel activo que todos tenemos ante la alimentación.
 
 Una buena alimentación significa comer una variedad amplia y equilibrada de alimentos diferentes de forma moderada.
 
-**Variedad, equilibrio y moderación**
+### Variedad, equilibrio y moderación
 
 Los alimentos no son simplemente el **combustible fisiológico**. La alimentación es también un **fenómeno social**. La nutrición se ha convertido, para bien o para mal, en un tema de actualidad. En este sentido, las opiniones de cada persona pueden guiarse simplemente por la experiencia individual. La difusión de conceptos erróneos, el desconocimiento en definitiva de la relación dieta y salud, está ocasionando una creciente expansión de personas que hablan sobre nutrición, abarcando desde opiniones de expertos hasta los que hacen profesión de transmitir el mensaje nutricional incorrecto.
 
