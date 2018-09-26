@@ -1,0 +1,13 @@
+# Para saber más...
+
+*   Estrategia NAOS. [Activilandia](http://www.activilandia.aecosan.msssi.gob.es/ "Activilandia")
+*   [Mercado saludable de los alimentos](http://www.fen.org.es/mercadoFen/mercadofen_ajus_General.html "Mercado saludable de los alimentos") para la población adulta. FEN.
+*   Fundación Española de la Nutrición. [Información nutricional especies pesqueras](http://www.fen.org.es/aplicaciones/magrama/calculadornutricional/index_App.html "Especies pesqueras")
+*   Fundación Española de la Nutrición. [Los beneficios de la carne](http://www.fedecarne.es/ficheros/swf/ "Beneficios de la carne ")
+*   Fundación Española de la Nutrición. [Propiedades nutricionales de la avena](http://www.fen.org.es/index.php/actividades/publicacion/datos-actuales-sobre-las-propiedades-nutricionales-de-la-avena)
+*   Fundación Española de la Nutrición. [La leche como vehículo de salud I](http://www.fen.org.es/index.php/actividades/publicacion/la-leche-como-vehiculo-de-salud-para-la-poblacion-calcio-y-sus-determinantes-en-la-salud-de-la-poblacion-espanola)
+*   Fundación Española de la Nutrición. [La leche como vehículo de salud II](http://www.fen.org.es/index.php/actividades/publicacion/la-leche-como-vehiculo-de-salud-ii-acidos-grasos-poliinsaturados-omega-3)
+*   Mataix Verdú, J. [Nutrición para Educadores](Nutricion_para_educadores.pdf "Nutrición para educadores"). 2ª edición. Editorial Díaz de Santos. Madrid, 2005.
+*   Moreiras O, Carbajal A, Cabrera L, Cuadrado C. [Tablas de composición de alimentos](http://www.edicionespiramide.es/libro.php?id=4704930 "Tablas de composición de los alimentos"). 16ª edición. Editorial Pirámide. Madrid, 2013.
+*   Moreiras Tuny, O; Varela Moreiras, G; Ávila Torres, JM; Beltrán de Miguel, B; Cuadrado Vives, C; del Pozo de la Calle, S; Rodríguez Castilla, MV; Ruiz Moreno, E. [La alimentación española. Características nutricionales de los principales alimentos de nuestra dieta](http://www.fen.org.es/index.php/es/articulo/la-alimentacion-espanola-caracteristicas-nutricionales-de-los-principales-alimentos-de-nuestra-dieta "Características nutricionales de los principales alimentos de nuestra dieta"). Ed: Ministerio de Medio Ambiente y Medio Rural y Marino. 2009.
+*   Fundación Española de la Nutrición. Fundación Iberoamericana de Nutrición. [La leche como vehículo de salud para la población](http://www.fen.org.es/index.php/actividades/publicacion/la-leche-como-vehiculo-de-salud-para-la-poblacion-calcio-y-sus-determinantes-en-la-salud-de-la-poblacion-espanola "La leche como vehículo de salud para la población"). 2015.

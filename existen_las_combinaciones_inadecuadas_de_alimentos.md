@@ -1,0 +1,9 @@
+# ¿Existen las combinaciones inadecuadas de alimentos?
+
+Existe desgraciadamente una **creencia muy extendida de que los seres humanos no pueden comer juntos determinados alimentos**. Uno de los ejemplos de error más conocidos es el no comer fruta y carne, porque nuestro sistema digestivo no puede digerirlos a la vez…..También es falsa la idea de que debemos tomar la fruta separada de las comidas para _así aprovechar mejor sus vitaminas, ya que en caso contrario se perderían en el tracto gastrointestinal por la influencia negativa de otros componentes de los alimentos._ Pues bien, desde el punto de vista científico, **no existen evidencias de que sea mejor comer los alimentos por separado que combinados**. Nuestro aparato digestivo ha evolucionado tanto que nos permite combinar todo tipo de alimentos en nuestra dieta, digerirlos, y obtener los nutrientes que necesitamos como especie. Aún más, las combinaciones de alimentos de origen animal y vegetal puede ser muy favorable: la vitamina C de un producto vegetal puede mejorar la absorción del hierro; la combinación de leche y cereales es otro ejemplo de mezcla adecuada (las proteínas de los cereales, deficitarias en algunos aminoácidos, se complementan a la perfección con las de la leche). Únicamente  en casos muy especiales, en los que exista una enfermedad, podría ser conveniente separar la ingesta de determinados alimentos. No debemos olvidarnos, por tanto, que el ser humano es omnívoro por naturaleza y siempre ha comido mezclas de alimentos. 
+
+
+![](img/chicken-559892_1280.png)
+
+
+Fuente: [Pixabay](https://pixabay.com/es/pollo-pl%C3%A1tanos-leche-alimentar-559892/). Dominio público

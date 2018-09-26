@@ -1,0 +1,11 @@
+# Las carnes en nuestra alimentación
+
+En un momento en que este grupo de alimentos no atraviesa uno de sus mejores momentos, quizá resulte conveniente recordar la **importancia de las carnes en nutrición**. Desde tiempos muy antiguos, la carne y sus derivados son alimentos muy apreciados. Los animales criados para la alimentación humana son principalmente herbívoros (bovino, ovino, aves) y algún omnívoro, como el cerdo. Lo que llamamos como carne para el consumo humano resulta de la transformación del tejido muscular por una serie de procesos que ocurren tras el sacrificio del animal y le proporcionan sus características organolépticas: digestibilidad, terneza, aroma y color. Además de la carne, empleamos como alimento la grasa, sangre y distintas vísceras. Si queremos prolongar el periodo de vida útil, se preparan derivados cárnicos, destacando los embutidos. En cualquier caso, se trata de un grupo heterogéneo por lo que resulta peligroso -al igual que para otros grupos de alimentos- hablar de las ventajas o problemas como tal. De lo que no tenemos duda globalmente es que las carnes son buenas fuentes de proteínas (un 20% de promedio), de elevado valor biológico -de alta calidad- y con muy variable contenido en grasa, principal componente del valor energético (las carnes magras contienen menos del 10% de grasa, mientras que los cortes grasos sobrepasan el 20%). Son además buenas fuentes de potasio, fósforo, cinc, hierro hemo -el más utilizable por nuestro organismo-, así como de vitaminas del grupo B (vitamina B12, niacina, riboflavina). Carecen prácticamente de hidratos de carbono (1-3%).
+
+Las recomendaciones actuales de una llamada dieta saludable se encaminan a controlar el consumo de carnes rojas y derivados cárnicos a unas pocas veces al mes y el de carnes magras, como pollo, pavo, conejo, a no más de 3 veces por semana. El motivo es claro: algunas de estas carnes son una fuente importante de grasa saturada y colesterol, factores de riesgo para enfermedades como la arteriosclerosis y cáncer. En definitiva, **necesitamos comer carne, pero con moderación**. 
+
+
+![](img/meat-1030729_1920.jpg)
+
+
+ Fuente: [Pixabay](https://pixabay.com/es/carne-carnicero-pantalla-escaparate-1030729/). Dominio público

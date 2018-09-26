@@ -1,0 +1,6 @@
+# 1.Requisitos nutricionales. Aspectos básicos
+
+*   La comida del mediodía deberá aportar alrededor de un **30-35% de la energía total** de las necesidades diarias.
+*   El **perfil calórico** debe calcularse teniendo en cuenta la ingesta de todo el día. Se recomienda que el contenido de grasa del menú no debe aportar más del 30-35% de la energía total, las proteínas un 12-15% y el resto de los hidratos de carbono.
+*   El **perfil lipídico** debe calcularse teniendo en cuenta la ingesta de todo el día. Se recomienda que el contenido de ácidos grasos saturados debe ser menor del 7% de la energía total, el de poliinsaturados entre 7-10% y el de monoinsaturados del 13 al 18%.
+*   Las dietas de los escolares deben ajustarse a sus recomendaciones de energía y nutrientes. En cuanto a la **energía**, hidratos de carbono y proteínas, deben mantenerse en los niveles recomendados a **DIARIO**. Su contenido de micronutrientes, **minerales y vitaminas**, se calculará sobre un plazo de **15 DÍAS**, procurando el consumo diario de alimentos de todos los grupos, de forma que asegure un buen aporte diario de nutrientes.

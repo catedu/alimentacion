@@ -1,0 +1,7 @@
+# Beber alcohol en exceso causa desnutrición
+
+El tema del alcohol y su relación con la nutrición es siempre controvertido, ya que **resulta muchas veces difícil establecer la frontera entre consumo moderado**, el que normalmente se da en los países mediterráneos, y el consumo excesivo, cuyas consecuencias desde el punto de vista nutricional pueden resultar muy graves.
+
+Las **deficiencias vitamínicas que se producen como consecuencia del consumo excesivo y prolongado de alcohol son complejas**: ingesta insuficiente debido a que se reemplazan nutrientes esenciales por las “calorías vacías” que ingerimos al tomar alcohol; problemas de malabsorción de nutrientes por el efecto del etanol _per se_; hiperexcreción de vitaminas, etc. De todas las vitaminas, son las del grupo B las que suelen ser más deficitarias.
+
+La deficiencia en tiamina o vitamina B1 es muy frecuente entre los alcohólicos, originando problemas graves a nivel del sistema nervioso, como también lo es la deficiencia en ácido fólico. Por ello, un consumo excesivo y prolongado de alcohol puede dar lugar a un incremento de los requerimientos corporales para estas vitaminas. Además, el producto metabólico principal del alcohol, el acetaldehído, puede interferir con la activación de las vitaminas en el hígado, especialmente la B1, B6, folato, y vitamina D. Finalmente, se ha visto que los alcohólicos crónicos son más susceptibles a las fracturas óseas, asociándose al metabolismo anormal de la vitamina D como consecuencia de la ingesta excesiva de alcohol.

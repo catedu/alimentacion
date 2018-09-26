@@ -1,0 +1,17 @@
+# Conclusiones
+
+Pero quizá, como síntesis de todo lo anterior, deberíamos comprender que, en los temas sensoriales, lo más importante es comprender que no basta con los conocimientos sino que son necesarias y mucho más decisivas las experiencias.De nada serviría aprender muchísimo sobre la música y los músicos, si no tuviéramos la oportunidad de escucharla. Como de nada serviría aprender mucho sobre pintura y sobre los pintores si no tuviéramos la oportunidad de ver y de admirar sus cuadros. O de teatro sin contemplar a los actores en el escenario.
+
+Lo mismo ocurre con la gastronomía, con la alimentación, con la nutrición. Son importantes los conocimientos teóricos pero, también y todavía mucho más, la experiencia_,_ la apasionante experiencia de **probar**_**.**_ Decía el profesor Francisco Grande Covián que “la gente comerá lo que debe solo si le gusta”. Es decir, la inevitable relación entre salud y placer, fuente del hecho gastronómico en sí mismo.
+
+
+![Niño comiendo](img/baby-84686_1920.jpg "Niño comiendo")
+
+
+Fuente: [Pixabay](https://pixabay.com/es/beb%C3%A9-mordedura-ni%C3%B1o-lindo-comer-84686/)
+
+Nuestras madres, abuelas y bisabuelas se pasaron gran parte de su vida intentando que sus hijos o nietos aprendieran a apreciar la calidad y el gusto de aquellos alimentos que debían comer, por razones saludables.De esa forma, durante muchas horas, muchos días, meses y años, se empeñaron en que disfrutáramos con las verduras, con las frutas, con el pescado, con aceites vegetales, es decir, con los productos más sanos y recomendables de nuestra despensa.En la actualidad, en nuestro entorno y por la evolución de las condiciones laborales sobre todo en el mundo urbano, la familia difícilmente puede cumplir ese papel de transmisor de experiencias. Y ya lo echamos muchísimos de menos porque en cada generación que va yéndose desaparece también una parte de su memoria culinaria.
+
+Por  ello, ha llegado el momento de que sea el **Sistema Educativo** el que asuma por completo esa función, es decir,  que no solo transmita **conocimientos** sino también **experiencias y valores**. Y una de las principales experiencias es, sin duda, la de saber comer, en términos saludables y en términos lúdicos y placenteros.Cocineros como Martín Berasategui llevan tiempo demandando que una de las mejores formas de combatir los errores alimenticios en las escuelas es la incorporación, en todos los programas educativos, de una asignatura sobre Alimentación, Nutrición y Dietética. En la misma línea, Joan Roca, el mejor cocinero del mundo, está convencido de que todas las instituciones tienen que ayudar, intentando que en las escuelas se hable de nutrición y de alimentación y se enseñe a los niños a elaborar los platos para que después colaboren en las tareas alimentarías domésticas.
+
+El planteamiento actual de la Real Academia de Gastronomía y de la Fundación Española de la Nutrición, en colaboración con el Ministerio de Educación, Cultura y Deporte, es tratar de trasladar a los niños (a los de edades comprendidas de 3 a 6 años y a los de entre 6 y 9 años) **no sólo los conocimientos necesarios** para que sepan lo que deben y les conviene comer **sino, también**, organizar, a través de los **Talleres del Gusto**, las **experiencias** precisas para que acaben disfrutando precisamente con aquello que necesitan para comer saludablemente y que, en términos generales, es precisamente aquello que necesitan para comer de la forma más placentera.

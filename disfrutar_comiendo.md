@@ -1,0 +1,11 @@
+# Disfrutar comiendo
+
+La gastronomía está ejerciendo como una de las disciplinas más importantes para el hombre durante el siglo XXI. Ello se debe a su carácter esencial para la salud de las personas, su contribución a la estética y su influencia en el comportamiento social. Su gran mérito es hacer de la necesidad virtud, por lo que el **“deber comer”** está hoy más relacionado que nunca con el **“saber” hacerlo**. Sin embargo, se trata de una capacidad más difícil de lo que parece. La cocina (y todo lo que le rodea) es una gran fuente de placer, es decir, atesora muchos valores desde la perspectiva lúdica. Sin embargo, llama la atención especialmente que, durante los últimos años, el elemento nutricional haya ido ganando cada vez más peso y ningún planteamiento actual con aspiraciones de alcanzar el éxito puede soslayar dichos valores.
+
+Frente a quienes mantuvieron en tiempos la premisa de que comer y beber (al menos, hacerlo fuera de toda medida) embrutecían y que alimentarse respondía a un mero impulso instintivo de supervivencia, hay que apostar por una **aproximación culta y saludable al universo gastronómico**, planteamiento esencial en torno al cual hemos construido el arte de la buena mesa. Comida y cocina son, para el hombre, hechos sociales puesto que, cuando está en compañía, come y bebe, mientras que cuando está solo, se alimenta.
+
+Lisa y llanamente, comer mejor significa vivir mejor. Dicho de otra manera, somos, al fin y al cabo, lo que comemos. Nuestra alimentación marcará nuestra vida. Y comer bien resulta complejo, pero a la vez, sumamente placentero. Ya decía Brillat Savarin en su “Fisiología del gusto” que:
+
+**“El placer de comer es el único que, tomado con moderación, no va seguido de la fatiga”**
+
+El cocinero de nuestro tiempo ha de tener en cuenta las más elementales normas “sanitarias” en materia de alimentación, y prácticamente en todas sus preparaciones acostumbran a estar presentes las directrices que la ciencia aconseja para ser fiel a los principios más importantes que dicta la nutrición y que hoy, felizmente, han alcanzado un carácter casi universal.

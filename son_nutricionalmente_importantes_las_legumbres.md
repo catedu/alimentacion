@@ -1,0 +1,9 @@
+# ¿Son nutricionalmente importantes las legumbres?
+
+Las legumbres han estado **presentes de manera tradicional en la dieta española**, así como en la de otros países mediterráneos o de Oriente. Las más consumidas en nuestro entorno son las lentejas, garbanzos y judías, aunque todas ellas van a presentar un enorme interés nutricional. Y es que estamos hablando de alimentos ricos en hidratos de carbono complejos (almidón), aportando también una buena cantidad de proteínas. Así, el grano seco aporta un 65% de almidón, un 20% de proteínas, un 4% de grasas, conteniendo también fibra, vitaminas del grupo B, hierro y calcio. Por ello, estamos ante un alimento muy completo, ya que además de energía, proporcionan proteínas, precisamente las que los cereales no pueden aportar. Es en la complementación de las legumbres y cereales donde deberemos buscar el aportar los aminoácidos-constituyentes de las proteínas-que le faltan al otro. Añadamos que todos sabemos que las legumbres **admiten combinaciones culinarias muy diversas**, lo que va a permitir alcanzar un buen equilibrio de nutrientes. Las legumbres han perdido -desgraciadamente- prestigio nutricional, ya que se han asociado como “alimentos para pobres”. Ello se ha debido, entre otras cosas, a que un mayor nivel económico origina una sustitución en nuestra dieta del grupo legumbres por el grupo carnes. Sin embargo, nuestras legumbres han pasado a desempeñar un **papel básico en una alimentación sana y saludable**, lo que identificamos normalmente con el concepto de _dieta mediterránea_. Las legumbres aportan cantidades importantes de fibra, tanto soluble como insoluble, lo que asociamos con efectos positivos sobre el metabolismo del colesterol y el control de la diabetes.
+
+
+![](img/chickpeas-2014107_1920.jpg)
+
+
+Fuente: [Pixabay](https://pixabay.com/es/garbanzos-frijoles-2014107/). dominio público
