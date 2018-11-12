@@ -1,8 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-
-<!-->
 ____
 ### 1. ¿Por qué debo aprender a comer? 
 * [¿Por qué debo aprender a comer?](index.md)
@@ -24,7 +22,6 @@ ____
 	* [Bebidas](bebidas.md)
 	* [Nuevos alimentos](nuevos_alimentos.md)
 	* [Para saber más...](para_saber_ms1.md)
--->
 
 ### 3. ¿Qué tienen los alimentos?
 * [¿Qué tienen los alimentos?Energía y nutrientes](index2.md)

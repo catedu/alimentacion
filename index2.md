@@ -1,12 +1,18 @@
 # ¿Qué tienen los alimentos?Energía y nutrientes
 
-# Objetivo del capítulo
+>**info**
+>
+># Objetivo del capítulo
+>
+>Profundizar en el conocimiento de los alimentos, en concreto, de su composición en nutrientes. 
 
-Profundizar en el conocimiento de los alimentos, en concreto, de su composición en nutrientes. 
+___
 
-# Concepto clave
-
-_Nutrientes:_ sustancias, orgánicas e inorgánicas, con una estructura química definida que, contenidas en los alimentos y bebidas, son indispensables para la salud y la actividad del organismo. Si no los consumimos en cantidad suficiente se cae en la enfermedad y, en algunos casos, si la ingesta es excesiva también. Por eso el equilibrio es importante.
+>**tip**
+>
+># Concepto clave
+>
+>_Nutrientes:_ sustancias, orgánicas e inorgánicas, con una estructura química definida que, contenidas en los alimentos y bebidas, son indispensables para la salud y la actividad del organismo. Si no los consumimos en cantidad suficiente se cae en la enfermedad y, en algunos casos, si la ingesta es excesiva también. Por eso el equilibrio es importante.
 
 **El ser humano para conservar su salud necesita consumir diariamente energía y unos 50 nutrientes**
 
