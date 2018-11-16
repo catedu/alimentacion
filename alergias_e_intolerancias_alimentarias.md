@@ -23,4 +23,4 @@ Aunque casi cualquier alimento puede provocar reacciones adversas, existe una se
 *   La preparación del alimento.
 *   La cantidad y estabilidad de la presencia del alérgeno. 
 
-[Vídeo (YouTube) - Alergias alimentarias - (02:28)](https://www.youtube.com/watch?v=rySAJE5vHz8)
+{% youtube %}https://youtu.be/rySAJE5vHz8{% endyoutube %}

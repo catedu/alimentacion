@@ -7,3 +7,5 @@ En este tramo del tubo digestivo es donde **se absorbe la mayor parte del agua y
 En el interior del tubo digestivo, en su mucosa, viven bacterias que son beneficiosas para nosotros porque nos ayudan a digerir algunos alimentos, o pueden sintetizar algunas sustancias útiles para nuestro organismo, como la vitamina K; a cambio, nosotros les damos albergue. La relación de beneficio mutuo entre nosotros y las bacterias de la flora intestinal se llama **simbiosis**, y es muy importante que se conserve bien esta flora intestinal para que nuestra digestión sea correcta.
 
 La **diarrea** se produce cuando aumenta la motilidad intestinal: el quilo pasa rápidamente por el colon y no da tiempo a que se absorba agua y por eso las heces son muy líquidas. La diarrea puede estar producida por ansiedad, ciertos alimentos tomados en exceso, o por la infección de algunos microorganismos. El **estreñimiento** es el proceso contrario: se produce porque el paso del quilo es muy lento; eso hace que se absorba demasiada agua y las heces sean duras.
+
+{% youtube %}https://youtu.be/vxeo2M5FIl0{% endyoutube %}

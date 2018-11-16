@@ -1,12 +1,14 @@
 # Etiquetado de los alimentos
 
-# Objetivos del capítulo
-
-Interpretar las etiquetas de los alimentos: qué menciones obligatorias deben aparecer, cómo debe y puede indicarse el etiquetado nutricional y los alérgenos. Saber elegir las opciones más adecuadas de alimentos según los estilos de vida de la población. 
+>**tip**
+>
+># Objetivos del capítulo
+>
+>Interpretar las etiquetas de los alimentos: qué menciones obligatorias deben aparecer, cómo debe y puede indicarse el etiquetado nutricional y los alérgenos. Saber elegir las opciones más adecuadas de alimentos según los estilos de vida de la población. 
 
 Se considera **etiquetado** todas las menciones, indicaciones, marcas de fábrica o comerciales, dibujos o signos relacionados con un producto alimenticio que figuren en cualquier envase, documento, rótulo, etiqueta, faja o collarín que acompañen o se refieran a un producto alimenticio.
 
-El **e****tiquetado de alimentos** es el principal medio de comunicación entre los productores de alimentos y los consumidores finales, constituyendo una herramienta clave para permitirles realizar elecciones informadas sobre los alimentos que compran y consumen
+El **etiquetado de alimentos** es el principal medio de comunicación entre los productores de alimentos y los consumidores finales, constituyendo una herramienta clave para permitirles realizar elecciones informadas sobre los alimentos que compran y consumen
 
 Según el [**Real Decreto 1334/1999**](https://www.boe.es/boe/dias/1999/08/24/pdfs/A31410-31418.pdf), de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, las menciones obligatorias para el etiquetado de alimentos son las siguientes:
 

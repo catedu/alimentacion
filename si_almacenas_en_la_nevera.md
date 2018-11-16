@@ -3,10 +3,10 @@
 *   La temperatura se debe mantener entre 0ºC y 5ºC y revisar diariamente.
     
 
-    ![nevera](img/Consejos_refrigeracion.jpg " Fridge full of healthy products ")
+![nevera](img/Consejos_refrigeracion.jpg " Fridge full of healthy products ")
 
     
-    Ljupco Smokovski. _Fridge full of healthy products_ (Dominio público)
+Ljupco Smokovski. _Fridge full of healthy products_ (Dominio público)
     
       
     

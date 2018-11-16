@@ -10,6 +10,4 @@ Al gasto energético diario de cada uno de nosotros contribuyen tres componentes
 
 En la actualidad, **los niveles de inactividad física han aumentado**. Actividades de ocio más sedentarias han sustituido a otras actividades de juego en el exterior, este cambio de patrones de conducta han derivado hacia estilos de vida más sedentarios.Así, el incremento del grado de urbanización de pueblos y ciudades (con entorno urbanístico poco favorable a la práctica de actividad física), las nuevas tecnologías, el ocio pasivo, el mayor acceso a los transportes (aumento del transporte motorizado) y la excesiva sobreprotección por parte de los progenitores (tráfico denso, miedo a extraños), favorecen que en la población infantil y juvenil el fenómeno del sedentarismo se haya agudizado en los últimos años, por lo que el número de horas que los niños y adolescentes dedican a ver la televisión, jugar con ordenadores y videojuegos ha aumentado de forma espectacular.
 
-  
-
-[Vídeo (YouTube) -](https://www.youtube.com/watch?v=cJS-9pCOFig) [Salud entre la actividad física y el sedentarismo - (12:31)](https://www.youtube.com/watch?v=cJS-9pCOFig)
+{% youtube %}https://youtu.be/cJS-9pCOFig{% endyoutube %}

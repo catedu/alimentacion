@@ -11,5 +11,4 @@ Como ya se ha comentado, es un importante factor que contribuye al **mantenimien
 Por estas razones, fomentar la actividad física en la población sedentaria es de vital importancia para la salud pública. Los estudios de la población en general indican que la práctica de una actividad física regular, estable y moderada ayuda a **mejorar tanto la salud física como la psicológica**, incrementando así la calidad de vida. La práctica de ejercicio regular contribuye a instaurar estilos de vida más saludables y a reducir o eliminar factores de riesgo asociados al sedentarismo.  
 
   
-
-[Vídeo (YouTube) - Actividad física, ejercicio y deporte (Fundación Mapfre) \- (04:42)](https://www.youtube.com/watch?v=iYz2E-LLAl0)
+{% youtube %}https://youtu.be/iYz2E-LLAl0{% endyoutube %}

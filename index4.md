@@ -1,8 +1,10 @@
 # ¿Cómo me alimento?
 
-# Objetivo
-
-Describir el proceso fisiológico fundamental de la alimentación humana: la digestión. Para ello se detallan los diferentes órganos del aparato digestivo, presentándolos metafóricamente como las sucesivas etapas de un circuito.
+>**info**
+>
+># Objetivo
+>
+>Describir el proceso fisiológico fundamental de la alimentación humana: la digestión. Para ello se detallan los diferentes órganos del aparato digestivo, presentándolos metafóricamente como las sucesivas etapas de un circuito.
 
 El ser humano, como el resto de los seres vivos, debe tomar del exterior los alimentos necesarios para mantener nuestras estructuras y realizar las distintas funciones y para ello tenemos que “hacerlas nuestras”, es decir, incorporarlas a nuestro organismo y así poder utilizarlas.La función del tubo digestivo es la de ingerir, digerir y absorber los principios inmediatos para llevarlos a la sangre, así como la eliminación de los productos de desecho restantes, sin interferir con el proceso de seguir comiendo.
 

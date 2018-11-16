@@ -1,7 +1,9 @@
 # Summary
 
 * [Introducción](README.md)
+
 ____
+
 ### 1. ¿Por qué debo aprender a comer? 
 * [¿Por qué debo aprender a comer?](index.md)
 	* [Relación dieta-salud](relacin_dietasalud.md)
@@ -34,7 +36,7 @@ ____
 	* [Agua](agua.md)
 	* [Para saber más...](para_saber_ms3.md)
 
-<!--  
+
 ### 4. ¿Cómo me alimento?
 * [¿Cómo me alimento?](index4.md)
 	* [Boca y faringe](boca_y_faringe.md)
@@ -42,7 +44,8 @@ ____
 	* [Intestino delgado](intestino_delgado.md)
 	* [Intestino grueso](intestino_grueso.md)
 	* [Para saber más...](para_saber_ms5.md)
-  
+
+    
 ### 5. ¿Cuánto debo comer?
 * [¿Cuánto debo comer?](index6.md)
 	* [¿Qué es una ración de alimentos?](qu_es_una_racin_de_alimentos.md)
@@ -54,13 +57,15 @@ ____
 	* [Encuestas dietéticas](encuestas_dietticas.md)
 	* [Consejos prácticos para mantener estable el peso adecuado](consejos_prcticos_para_mantener_estable_el_peso_adecuado.md)
 	* [Para saber más...](para_saber_ms7.md)
-  
+
+
 ### 6. Me alimento por necesidad y por placer. Buenas costumbres en alimentación.
 * [Me alimento por necesidad y por placer. Buenas costumbres en alimentación](index8.md)
 	* [La variedad es garantía de equilibrio](la_variedad_es_garanta_de_equilibrio.md)
 		* [¿Tenemos buenas costumbres?](tenemos_buenas_costumbres.md)
 		* [Para saber más...](para_saber_ms9.md)
-  
+
+
 ### 7. Alimentación como hecho cultural. La educación del gusto
 * [Alimentación como hecho cultural. La educación del gusto](index10.md)
 	* [Los valores que revela el color](los_valores_que_revela_el_color.md)
@@ -73,7 +78,7 @@ ____
 	* [El Triunfo del Mediterráneo](el_triunfo_del_mediterrneo.md)
 	* [Conclusiones](conclusiones.md)
 	* [Para saber más...](para_saber_ms11.md)
-  
+    
 ### 8. El buen aprovechamiento de los alimentos
 * [El buen aprovechamiento de los alimentos](index12.md)
 	* [¿Cómo se debe comprar?](cmo_se_debe_comprar.md)
@@ -88,7 +93,8 @@ ____
 	* [Tamaño adecuado de ración para cocinar](tamao_adecuado_de_racin_para_cocinar.md)
 	* [¿Qué hacer con las sobras?](qu_hacer_con_las_sobras.md)
 	* [Para saber más...](para_saber_ms13.md)
-  
+
+ 
 ### 9. Tecnología de los alimentos. Técnicas culinarias.
 * [Tecnología de alimentos. Técnicas culinarias.](index14.md)
 	* [Factores que afectan a la calidad del alimento](factores_que_afectan_a_la_calidad_del_alimento.md)
@@ -104,14 +110,16 @@ ____
 		* [Bebidas sin alcohol](bebidas_sin_alcohol.md)
 	* [¡Transformando recetas!](transformando_recetas.md)
 	* [Para saber más...](para_saber_ms18.md)
-  
+
+   
 ### 10. Etiquetado de los alimentos
 * [Etiquetado de los alimentos](index19.md)
 	* [Reglamento 1169/2011](reglamento_11692011.md)
 		* [Etiquetado nutricional](etiquetado_nutricional.md)
 		* [Información de alérgenos](informacin_de_alrgenos.md)
 	* [Para saber más...](para_saber_ms20.md)
-  
+
+
 ### 11. Mitos, errores y realidades
 * [Mitos, errores y realidades](index21.md)
 	* [A vuelta con las vitaminas](a_vuelta_con_las_vitaminas.md)
@@ -132,7 +140,8 @@ ____
 	* [Tabaco y desnutrición](tabaco_y_desnutricin.md)
 	* [Beber alcohol en exceso causa desnutrición](beber_alcohol_en_exceso_causa_desnutricin.md)
 	* [Para saber más...](para_saber_ms22.md)
-  
+
+
 ### 12. Comedores escolares
 * [Comedores escolares](index23.md)
 	* [Objetivos del comedor escolar](objetivos_del_comedor_escolar.md)
@@ -142,6 +151,7 @@ ____
 		* [3.Otras consideraciones en la elaboración y distribución de los menús](3otras_consideraciones_en_la_elaboracin_y_distribucin_de_los_mens.md)
 	* [Conclusiones](conclusiones24.md)
 	* [Para saber más...](para_saber_ms25.md)
+
   
 ### 13. Ejercicio físico y hábitos de vida
 * [Ejercicio físico y hábitos de vida](index26.md)
@@ -172,6 +182,7 @@ ____
 		* [Intolerancia al gluten](intolerancia_al_gluten.md)
 		* [Aspectos prácticos](aspectos_prcticos.md)
 	* [Para saber más...](para_saber_ms29.md)
--->
+
+___
 
 * [Créditos](crditos-buenos.md)

@@ -7,3 +7,5 @@ Las cantidades, raciones y tipos de alimentos a consumir deben ser **proporciona
 Para ello, el responsable del hogar debe saber calcular las cantidades de comida en función de la ración a servir a cada uno de los miembros del mismo, ya que un niño no come lo mismo que un adolescente, ni que un adulto o una persona de edad avanzada. Es importante tener en cuenta que las raciones servidas deben ser más bien pequeñas, con posibilidad de repetir, ya que las raciones grandes pueden inducir a más desperdicio.
 
 **¡NUESTRO PRINCIPAL OBJETIVO ES QUE SE TIRE LA MENOR CANTIDAD POSIBLE DE ALIMENTOS!**
+
+<iframe src="http://ec.europa.eu/avservices/video/player.cfm?ref=I075463&sitelang=en&videolang=es" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

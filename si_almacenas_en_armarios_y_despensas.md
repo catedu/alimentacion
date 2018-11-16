@@ -1,12 +1,8 @@
 # Si almacenas en armarios y despensas...
 
 *   La temperatura se debe ajustar entre 10ºC y 21ºC.
-    
 
-    ![Estantería](img/shelf-1285186_1920.jpg "Estantería")
-
-    
-    Fuente: [Pixabay](https://pixabay.com/es/plataforma-contenedor-rack-1285186/)
+[![Estantería. Fuente: Pixaba](img/shelf-1285186_1920.jpg "Estantería")](https://pixabay.com/es/plataforma-contenedor-rack-1285186/)
     
 *   Se debe mantener el área limpia.
 *   Cuartos de almacenamiento, fríos, secos y bien ventilados.

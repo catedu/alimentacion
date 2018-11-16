@@ -10,4 +10,4 @@ Las prácticas de almacenamiento de alimentos deben ser adecuadas, siendo import
 *   Rotular adecuadamente el recipiente (nombre del alimento y fecha) con el contenido si es necesario quitar las etiquetas del envase original, excepto cuando no pueda confundirse con algún otro (por ejemplo el arroz no se necesita marcar porque se reconoce fácilmente).
 *   Revisar diariamente la temperatura de los alimentos almacenados y de las áreas de almacenamiento.
 
-[Vídeo (YouTube) - Manipulación de Alimentos. Colocar con Seguridad (Ministerio Sanidad, Servicios Sociales e Igualdad) \- (01:21)](https://www.youtube.com/watch?v=6dBZq-RskPg)
+{% youtube %}https://youtu.be/6dBZq-RskPg{% endyoutube %}

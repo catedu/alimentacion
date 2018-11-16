@@ -11,4 +11,4 @@ Para adquirir los alimentos de forma correcta es fundamental que elijamos los pr
 *   Comprar los alimentos frescos y congelados en último lugar para garantizar la cadena de frío. Una vez finalizada la compra debemos llevarla a su destino con la mayor brevedad posible, para evitar su deterioro.
 *   Consultar el etiquetado en el momento de la compra es fundamental para optimizar la adquisición de alimentos, fijándonos en las fechas de caducidad o de consumo preferente, además de la información nutricional.
 
-[Vídeo (YouTube) - Manipulación de Alimentos. Comprar con Seguridad (Ministerio de Sanidad, Servicios Sociales e Igualdad) \- (01:42)](https://www.youtube.com/watch?list=PL7F6D7365464E34E4&v=gLk1gX7bQdo)
+{% youtube %}https://youtu.be/gLk1gX7bQdo?list=PL7F6D7365464E34E4{% endyoutube %}

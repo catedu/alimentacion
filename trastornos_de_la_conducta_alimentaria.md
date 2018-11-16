@@ -16,10 +16,10 @@ El abordaje correcto de estos pacientes deberá contemplar **estrategias complem
 
 La **educación nutricional** debe mostrar al paciente los efectos corporales negativos de la inanición, de los métodos purgativos, de los atracones y de una mala alimentación en general. Las **calorías** de la dieta deben ir **aumentando progresivamente** según sea necesario para lograr los objetivos propuestos, ya que la normalización del peso es prioritaria para la recuperación (empezando con alimentos que no causen inquietud al paciente). Se debe prescribir un **patrón regular de comidas (**evitando saltarse alguna ingesta); **registro de la ingesta diaria** resulta útil, tanto para el especialista en nutrición como para que el propio paciente sea consciente y responsable de sus avances. El **control de la evolución del peso** se realizará semanalmente durante la consulta, al principio y después a intervalos que dependerán del progreso. El **ejercicio físico** permitido y la monitorización de constantes vitales dependerán del progreso. 
 
-[Vídeo (YouTube) - Anorexia nerviosa - (06:39)](https://www.youtube.com/watch?list=PLehFnliN9IbjOb9EpiU9ZsOWfDu4zs7la&v=mZXS39v6IRs)
+{% youtube %}https://youtu.be/mZXS39v6IRs?list=PLehFnliN9IbjOb9EpiU9ZsOWfDu4zs7la{% endyoutube %}
 
-[Vídeo (YouTube) - ¿Qué es la bulimia? - (09:11)](https://www.youtube.com/watch?list=PLehFnliN9IbjOb9EpiU9ZsOWfDu4zs7la&v=1cBRuyFDMIk)
+{% youtube %}https://youtu.be/1cBRuyFDMIk?list=PLehFnliN9IbjOb9EpiU9ZsOWfDu4zs7la{% endyoutube %}
 
-[Vídeo (YouTube) - Epidemia silenciosa - La vigorexia, una enfermedad invisible que se extiende como una plaga (La Sexta) - (10:01)](https://www.youtube.com/watch?v=xTUz_7zCblA)
+{% youtube %}https://youtu.be/xTUz_7zCblA{% endyoutube %}
 
-[Vídeo (YouTube) - ¿Qué es la ortorexia?. Sin Ir Más Lejos (Aragón TV) - (08:36)](https://www.youtube.com/watch?v=hhGK6kxhsB8)
+{% youtube %}https://youtu.be/hhGK6kxhsB8{% endyoutube %}

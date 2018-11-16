@@ -16,6 +16,6 @@
 *   Es necesario **llevar a ebullición las salsas, sopas y jugos de carne de sobras de alimentos**. Las demás sobras deben calentarse uniformemente a 75ºC. Remover bien la comida para asegurarse de que se calienta de forma homogénea y servir muy caliente.
 *   Debemos **deshacernos de las sobras de cualquier alimento que no se sepa cuánto tiempo lleva almacenado o no** s**e esté seguro de su inocuidad** (cuando su aspecto u olor resulten dudosos).
 
-[Vídeo (YouTube) - OMS: Las cinco claves para la inocuidad de los alimentos (World Health Organization) \- (01:12)](https://www.youtube.com/watch?v=_rwnwhSW5pw)
+{% youtube %}https://youtu.be/_rwnwhSW5pw{% endyoutube %}
 
-[Vídeo (YouTube) - _Manipulación de Alimentos. Cocinar con Seguridad_ ( Ministerio Sanidad, Servicios Sociales e Igualdad) \- (01:31)](https://www.youtube.com/watch?list=PL7F6D7365464E34E4&v=UpXQREPV_ZM)
+{% youtube %}https://youtu.be/UpXQREPV_ZM?list=PL7F6D7365464E34E4{% endyoutube %}

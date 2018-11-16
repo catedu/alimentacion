@@ -50,4 +50,4 @@ Una ración de alimentos es la **cantidad aconsejable que hay que comer de cada 
 
 En el caso de los **niños** hasta los seis años, se considera, en general, que la ración equivale a un **60% de la ración del adulto**, aumentando un 10% cada año, hasta los diez años de edad. 
 
-[Vídeo (YouTube) - Taller Innovadieta: si no quieres engordar, que no lo haga tu ración. UCM. Mayo 2014 (UCM Multimedia) - (56:59)](https://www.youtube.com/watch?v=bUl850BoqeU)
+{% youtube %}https://youtu.be/bUl850BoqeU{% endyoutube %}

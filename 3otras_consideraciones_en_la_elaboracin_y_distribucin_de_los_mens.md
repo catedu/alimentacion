@@ -25,6 +25,6 @@ Fuente: [Pixabay.](https://pixabay.com/es/hornear-ni%C3%B1os-cocinar-la-educaci%
 
 Son muchos los niños que van a los centros educativos sin haber dormido lo suficiente y si a esto le añadimos un desayuno deficiente tenemos una caída en los niveles de glucemia (que en los niños se produce más rápidamente que en los adultos), que se traduce en una apatía y somnolencia que impide la atención y la actividad. Además estos malos hábitos alimentarios y la falta de ejercicio potencian el riesgo de enfermedades cardiovasculares, obesidad (38% de nuestros niños presentan sobrepeso) y diabetes.
 
-[Vídeo (YouTube) - _Taller de Innovadieta: desayunar bien. UCM. Mayo 2014_ (UCM Multimedia) \- (53:24)](https://www.youtube.com/watch?v=NLa5SANZ158)
+{% youtube %}https://youtu.be/NLa5SANZ158{% endyoutube %}
 
 La **adquisición de hábitos saludables** viene facilitada por el desarrollo de las competencias básicas recomendadas por la UE y en cada uno de los niveles podemos desarrollar la lingüística (nombre de los alimentos), la matemática (introducción a los números, contar), la interacción con el mundo físico, la social y ciudadana (comedores), la cultural y artística (dibujar, colorear) y la autonomía e iniciativa personal que el Profesorado debe desarrollar en su Programación Anual de Centro. Además, es conveniente resaltar que las actividades con los padres en talleres de cocina y actividad física fortalecen el compromiso educativo de las familias no solo con el centro sino también entre ellas.

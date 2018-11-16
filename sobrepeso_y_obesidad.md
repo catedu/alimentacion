@@ -4,9 +4,9 @@ El **sobrepeso** y la **obesidad** se definen como una acumulación anormal o ex
 
 El **índice de masa corporal** (peso/altura2) es el parámetro utilizado por la mayoría de los estudios epidemiológicos para la estadificación de la obesidad, ya que es el que ha demostrado mejor correlación con el porcentaje de grasa corporal y el riesgo de comorbilidades. La definición operativa de la OMS considera que:
 
-        Un IMC igual o superior a 25 kg/m2 determina sobrepeso.
+* Un IMC igual o superior a 25 kg/m2 determina sobrepeso.
 
-        Un IMC igual o superior a 30 kg/m2 determina obesidad.
+* Un IMC igual o superior a 30 kg/m2 determina obesidad.
 
 Además, las mediciones del **perímetro de la cintura o del índice cintura-cadera** proporcionan una información importante sobre cómo está distribuida la grasa corporal por su influencia en la salud:
 
@@ -19,4 +19,4 @@ El **tratamiento nutricional** de la obesidad debe estar basado en alcanzar los 
 
 La dieta a realizar debe tener como objetivo la pérdida de un 10% del peso inicial a expensas del exceso de masa grasa (entre 0,5 y 1 kg a la semana atendiendo al resto de necesidades nutricionales del paciente). La **educación nutricional** del paciente, el **consejo dietético**, las **técnicas de modificación de conducta** y la **práctica de actividad física** son muy importantes para que la eficacia del tratamiento sea duradera en el tiempo.
 
-[Vídeo (YouTube) - Alimmenta, dietistas-nutricionistas. Obesidad infantil en España, consejos prácticos (04:22)](https://www.youtube.com/watch?v=bvQNB0uGueQ)
+{% youtube %}https://youtu.be/bvQNB0uGueQ{% endyoutube %}

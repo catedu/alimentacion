@@ -16,40 +16,76 @@ Otros estudios demuestran que la mayoría de las personas alérgicas pueden come
 
 Alimentos, ingredientes y denominaciones que contienen o pueden contener frutos secos
 
-**Pistachos**
-
-**Avellanas**
-
-**Pastas y cremas que contengan frutos secos**
-
-**Almendras**
-
-**Pistachos**
-
-**Manteca de cacahuete**
-
-**Pipas de girasol, calabaza**
-
-**Piñón**
-
-**Algunas salsas: barbacoa, inglesa, al pesto…**
-
-**Anacardos**
-
-**Castañas**
-
-**Proteína vegetal hidrolizada**
-
-**Cacahuetes**
-
-**Mazapán, turrones y bombones**
-
-**Panadería y repostería elaborada con frutos secos**
-
-**Nuez de árbol, nuez moscada, nuez de macadamia…**
-
-**Aceite de frutos secos**
-
-**Cereales, galletas saladas y helados**
+<table border="1" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="192">
+<p><span style="font-size: small;"><b>Pistachos</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Avellanas</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Pastas y cremas que contengan frutos secos</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p><span style="font-size: small;"><b>Almendras</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Pistachos</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Manteca de cacahuete</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p><span style="font-size: small;"><b>Pipas de girasol, calabaza</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Piñón</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Algunas salsas: barbacoa, inglesa, al pesto…</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p><span style="font-size: small;"><b>Anacardos</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Castañas</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Proteína vegetal hidrolizada</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p><span style="font-size: small;"><b>Cacahuetes</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Mazapán, turrones y bombones</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Panadería y repostería elaborada con frutos secos</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p><span style="font-size: small;"><b>Nuez de árbol, nuez moscada, nuez de macadamia…</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Aceite de frutos secos</b></span></p>
+<p><span style="font-size: small;"><b>&nbsp;</b></span></p>
+</td>
+<td width="192">
+<p><span style="font-size: small;"><b>Cereales, galletas saladas y helados</b></span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Fundación Española de la Nutrición

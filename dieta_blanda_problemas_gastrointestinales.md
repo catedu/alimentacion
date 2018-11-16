@@ -27,4 +27,4 @@ Un ejemplo de menú para el caso de diarrea:
 *   Pan blanco
 *   Manzana asada
 
-[Vídeo (Youtube) - Gastroenteritis: contagio y alimentación (Clínica Universidad de Navarra) - (03:10)](https://www.youtube.com/watch?v=4n5fCWEuMuQ)
+{% youtube %}https://youtu.be/4n5fCWEuMuQ{% endyoutube %}

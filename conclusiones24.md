@@ -10,6 +10,6 @@ Concluyendo recordaremos que es necesario:
 *   Saber que los hábitos alimentarios que **ayudemos a aprender a nuestros alumnos** influirán en su salud, no sólo durante la infancia sino también en la edad adulta.
 *   El trabajo de todos hará que los escolares consigan aprender hábitos alimentarios correctos y descubran nuevos sabores. Recordemos que “**se necesita el trabajo de toda la tribu para educar a un niño**”.
 
-[Vídeo (YouTube) - Partnering for Nutrition in School Meals (USDA) \- (01:25)](https://www.youtube.com/watch?v=LAY9ZlvOd80)
+{% youtube %}https://youtu.be/LAY9ZlvOd80{% endyoutube %}
 
-[Vídeo (YouTube) - Del Huerto Escolar a la Alimentación y Salud Escolar (FAO) \- (15:04)](https://www.youtube.com/watch?v=MUZhTq7ApOs)
+{% youtube %}https://youtu.be/MUZhTq7ApOs{% endyoutube %}

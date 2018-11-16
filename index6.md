@@ -1,12 +1,18 @@
 # ¿Cuánto debo comer?
 
-# Objetivo
+>**tip**
+>
+># Objetivo
+>
+>Determinar qué, cuánto y cómo comer a lo largo de un día para asegurar una alimentación sana, completa y equilibrada. Para ello, el capítulo se divide en tres grandes bloques: primero, se introduce el Mercado Saludable de los Alimentos como representación gráfica; tras ello, se hablará de las raciones recomendadas de cada grupo de alimentos y, finalmente, se ofrecen recomendaciones nutricionales para mantener una dieta saludable a diario.
 
-Determinar qué, cuánto y cómo comer a lo largo de un día para asegurar una alimentación sana, completa y equilibrada. Para ello, el capítulo se divide en tres grandes bloques: primero, se introduce el Mercado Saludable de los Alimentos como representación gráfica; tras ello, se hablará de las raciones recomendadas de cada grupo de alimentos y, finalmente, se ofrecen recomendaciones nutricionales para mantener una dieta saludable a diario.
+---
 
-# Concepto clave
-
-_Dieta_: conjunto de todos los alimentos que se ingieren habitualmente.
+>**info**
+>
+># Concepto clave
+>
+>_Dieta_: conjunto de todos los alimentos que se ingieren habitualmente.
 
 En las sociedades desarrolladas, como la nuestra, existe una creciente preocupación por la dieta y sus efectos sobre la salud. Continuamente nos preocupamos sobre los alimentos que comemos, las calorías que nos aportan, si son ricos en vitaminas o  minerales, si tienen fibra, si nos ayudarán a conseguir una mayor calidad de vida y a prevenir diferentes patologías... Vivimos en un momento y en una sociedad privilegiada por la gran abundancia de alimentos disponibles. Pero, paradójicamente, nos encontramos también con el problema de la elección de la dieta adecuada. Realmente, ¿cuánto debemos comer de cada alimento o grupo de alimentos? ¿Con cuánta frecuencia, para que nuestra dieta sea saludable?
 

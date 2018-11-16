@@ -1,8 +1,10 @@
 # Enfermedades relacionadas con la alimentación
 
-# Objetivo del capítulo
-
-Conocer las principales enfermedades que están relacionadas con la alimentación y saber llevar a cabo unas prácticas correctas para el tratamiento de estas patologías.Diferenciar los términos alergia e intolerancia para su correcto diagnóstico y tratamiento dietético.
+>**tip**
+>
+># Objetivo del capítulo
+>
+>Conocer las principales enfermedades que están relacionadas con la alimentación y saber llevar a cabo unas prácticas correctas para el tratamiento de estas patologías.Diferenciar los términos alergia e intolerancia para su correcto diagnóstico y tratamiento dietético.
 
 La **Nutrición y la Dietética** son ciencias del siglo XX, pero ya en la antigüedad (Grecia) los griegos filósofos observaron que una determinada forma de alimentarse conducía al bienestar o a la enfermedad.
 

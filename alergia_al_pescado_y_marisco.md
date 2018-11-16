@@ -14,7 +14,7 @@ En el caso del Anisakis, se recomienda evitar el consumo de pescado crudo o poco
 *   -20º C durante 1 semana (frigoríficos de 3 o 4 estrellas)
 
 *   Tratamiento térmico completo
-    *   >60º C durante 5-10 min (El tiempo necesario variará en función del proceso culinario y principalmente el tamaño de las piezas)
+    *   Más de 60º C durante 5-10 min (El tiempo necesario variará en función del proceso culinario y principalmente el tamaño de las piezas)
     *   10 min en piezas de 2,5 cm grosor
     *   15 min piezas en salsa o papillot
 
@@ -22,44 +22,98 @@ El marisco produce alergias generalmente en la población adulta (8% en adultos 
 
 Alimentos, ingredientes y denominaciones que contienen o pueden contener pescado
 
-**Pescados y guisos con pescado**
-
-**Productos enriquecidos con omega-3**
-
-**Sopas y caldos concentrados de pescado**
-
-**Harinas de pescado**
-
-**Preparados para paella**
-
-**Colas de pescado**
-
-**Rollitos congelados de cangrejo**
-
-**Piensos de animales**
-
-**Aceite de pescado: aceite de hígado de bacalao**
+<table border="1" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Pescados y guisos con pescado</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Productos enriquecidos con omega-3</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Sopas y caldos concentrados de pescado</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Harinas de pescado</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Preparados para paella</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Colas de pescado</b><b></b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Rollitos congelados de cangrejo</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Piensos de animales</b><b></b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Aceite de pescado: aceite de hígado de bacalao</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>&nbsp;</b></span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Alimentos, ingredientes y denominaciones que contienen o pueden contener marisco
 
-**Moluscos y crustáceos**
-
-**Productos enriquecidos con omega-3**
-
-**Sopas, caldos**
-
-**Ensaladas**
-
-**Pizzas**
-
-**Gelatinas**
-
-**Preparados para paella**
-
-**Surimi**
-
-**Rollitos congelados de cangrejo**
+<table border="1" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Moluscos y crustáceos</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Productos enriquecidos con omega-3</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Sopas, caldos</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Ensaladas </b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Pizzas</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Gelatinas</b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Preparados para paella</b></span></p>
+</td>
+<td width="288" valign="top">
+<p><span style="font-size: small;"><b>Surimi </b></span></p>
+</td>
+</tr>
+<tr>
+<td width="288" valign="top">
+<p><b>Rollitos congelados de cangrejo</b></p>
+</td>
+<td width="288" valign="top">
+<p><b>&nbsp;</b></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Fundación Española de la Nutrición
 
-[Vídeo (Vimeo) - Anisakis y otros parásitos del pescado - (14:11)](https://vimeo.com/102578584)
+<iframe src="https://player.vimeo.com/video/102578584" width="640" height="360" frameborder="0" allowfullscreen></iframe>

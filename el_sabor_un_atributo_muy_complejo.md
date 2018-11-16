@@ -6,4 +6,4 @@ Como los colores son los que mejor entran por los ojos, el sentido primordial de
 
 Cada uno de los **cinco sentidos** (que son los medios con los que el ser humano percibe y detecta el mundo que le rodea) tiene diferentes atributos. Así, los de la **vista** son el color, la apariencia, la textura y la rugosidad; los del **olfato**, el olor, el aroma y el sabor; los del **oído**, la textura y la rugosidad; los del **gusto**, el propio gusto y el sabor; y los del **tacto**, la temperatura, el peso, la textura y la rugosidad.
 
-[Vídeo (YouTube) - No Te Pierdas Las Reacciones De Estos Niños Al Probar Sabores Por Primera Vez _\- (02:36)_](https://www.youtube.com/watch?v=pIAWSwimu5M)
+{% youtube %}https://youtu.be/pIAWSwimu5M{% endyoutube %}

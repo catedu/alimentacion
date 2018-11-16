@@ -7,4 +7,4 @@ A la hora de elaborar distintos platos, se pueden hacer cambios sencillos que ay
 *   Usar con mayor frecuencia aceites vegetales como oliva o girasol, en lugar de mantequillas o margarinas, por el tipo de grasa que contienen.
 *   Elegir alimentos con bajo contenido en calorías y grasas pero que sean saciantes como los ricos en fibra, como verduras y hortalizas, cereales integrales (pan, pasta, arroz…) o fruta con piel.
 
-[Vídeo (YouTube) - Taller de Innovadieta: Gastronomía Saludable.UCM. Mayo 2014 (UCM Multimedia) \- (1:07:10)](https://www.youtube.com/watch?v=BxJFb5wl0ZU)
+{% youtube %}https://youtu.be/BxJFb5wl0ZU{% endyoutube %}

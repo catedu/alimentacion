@@ -14,12 +14,3 @@ No hay que olvidar que el **hábito de fumar** e incluso la exposición pasiva a
 
 Uno de los objetivos del _Informe ”Salud en el siglo XXI de la OMS (Organización Mundial de la Salud)”_ es de **avanzar hacia una sociedad sin tabaco**.
 
-
-![Cigarrillos, Cenizas, Inclinación, Fumar, Cenicero](https://cdn.pixabay.com/photo/2013/02/20/07/21/cigarettes-83571_960_720.jpg)  
-
-
-Fuente: [Pixabay](https://pixabay.com/es/cigarrillos-cenizas-inclinaci%C3%B3n-83571/). Dominio público
-
-[  
-  
-](Shutterstock)

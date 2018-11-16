@@ -1,8 +1,10 @@
 # Alimentación como hecho cultural. La educación del gusto
 
-# Objetivo del capítulo
-
-Presentar la dimensión sensorial de la alimentación. Transmitir que, más allá del gusto y del olfato, los cinco sentidos tienen un papel global a la hora de preparar, consumir y disfrutar los alimentos. Y es muy importante educar el gusto en la escuela y en familia.
+>**tip**
+>
+># Objetivo del capítulo
+>
+>Presentar la dimensión sensorial de la alimentación. Transmitir que, más allá del gusto y del olfato, los cinco sentidos tienen un papel global a la hora de preparar, consumir y disfrutar los alimentos. Y es muy importante educar el gusto en la escuela y en familia.
 
 **Alimentarse** es, por definición, “dar a los seres orgánicos lo necesario para su conservación y crecimiento”, es decir, consiste en tomar algo comestible, introduciéndolo en la boca, masticándolo, tragándolo y, a través de este proceso, conseguir multitud de satisfacciones gustativas. Todo pasa por el aparato digestivo y nos proporciona la energía y los nutrientes necesarios para la vida, es decir “salud vs placer” unidos (Nutrición y Gastronomía), que deben ir de la mano, siempre comiendo un poco de todo con moderación y sentido común, dos ingredientes que hay que saber combinar siempre.
 

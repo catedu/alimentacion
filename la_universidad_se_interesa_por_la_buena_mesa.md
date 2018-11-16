@@ -8,4 +8,4 @@ Más allá de estas **importantes iniciativas académicas** (y de otras menos am
 
 Más allá de una necesidad vital, es decir, del “deber comer”, si “aprendemos a comer”, accederemos a muchos de los secretos de la calidad de vida, y descubriremos, de paso, que la buena mesa está llena de alicientes y resulta muy divertida, maravillosa para la sensibilidad infantil. Es un lugar para experimentar y para disfrutar, para enriquecernos todos, e incluso para crecer como seres humanos. Por eso, es muy conveniente acercarse a ella desde la más tierna infancia.  
 
-[Vídeo (YouTube) - The New Culinary Think Tank - el bulli 2.0 | Lecture 14 (2011) (Harvard University) - (1:50:55)](https://www.youtube.com/watch?v=dr1O3xQY8VA)
+{% youtube %}https://youtu.be/dr1O3xQY8VA{% endyoutube %}

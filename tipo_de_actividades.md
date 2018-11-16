@@ -16,7 +16,7 @@ No hay que olvidar que **la mejor manera de cambiar hábitos de vida sedentario
 
 **¡Muévete por tu salud!**
 
-[Vídeo (YouTube) - Piano stairs - TheFunTheory.com - (01:47)](https://www.youtube.com/watch?v=2lXh2n0aPyw)  
+{% youtube %}https://youtu.be/2lXh2n0aPyw{% endyoutube %} 
 
 Por lo tanto, para obtener un buen estado de salud es importante que además de llevar a cabo una dieta saludable, el sujeto mantenga una forma física adecuada a través del ejercicio físico realizado con regularidad. Por todo ello, en los últimos años se ha puesto en marcha diferentes planes como la Estrategia para la Nutrición, Actividad Física y Prevención de la Obesidad (Estrategia NAOS).
 

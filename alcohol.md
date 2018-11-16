@@ -12,7 +12,7 @@ El valor calórico del alcohol es de aproximadamente 7 kcal/g siendo algo superi
 
 Por tanto, el **consumo frecuente de alcohol interfiere de manera muy negativa en la absorción de la mayoría de los nutrientes** (que con tanto esfuerzo tratamos de equilibrar en nuestra dieta), sobre todo vitaminas, como la B1 o tiamina, B6 o piridoxina y también, de manera muy grave, folatos. Fuera del ámbito nutricional, el alcohol en exceso es responsable de causar serios problemas y daños sociales, mentales y emocionales, como criminalidad, violencia familiar o social y el riesgo de sufrir accidentes de tráfico, con elevados costes para la sociedad.
 
-[Vídeo (YouTube) - El consumo de alcohol, burladero... del cáncer (EFE Salud) \- (06:30)](https://www.youtube.com/watch?v=qBZtTRoEQ5s)
+{% youtube %}https://youtu.be/qBZtTRoEQ5s{% endyoutube %}
 
 El alcohol por tanto, es un tóxico que siempre tiene un efecto depresor del sistema nervioso central, aunque se manifiesta en dos fases: primero se produce excitación, y después sedación por la afectación de los centros nerviosos superiores:
 

@@ -8,6 +8,6 @@ Como tratamiento nutricional, se encuentra la dieta exenta de gluten, tanto para
 
 La pérdida de peso y la atrofia intestinal pueden contribuir a que se produzca una desnutrición en el paciente por tanto se debe llevar a cabo una dieta hiperproteica y/o hipercalórica dependiendo del grado de desnutrición del mismo.
 
-[Vídeo (YouTube) -Intolerancia al gluten o celiaquía - (05:44)](https://www.youtube.com/watch?v=fVxUyJyDHwI)
+{% youtube %}https://www.youtube.com/watch?v=fVxUyJyDHwI{% endyoutube %}
 
-[Vídeo (YouTube) - Pan sin gluten para celiacos - (01:30)](https://www.youtube.com/watch?v=_grQmlshtfA)
+{% youtube %}https://www.youtube.com/watch?v=_grQmlshtfA{% endyoutube %}

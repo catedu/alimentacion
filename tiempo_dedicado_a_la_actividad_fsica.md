@@ -8,6 +8,6 @@ A medida que se alcanza la **edad adulta**, la OMS recomienda dedicar como **mí
 
 Es preciso por todo ello, **lograr un equilibrio**, reduciendo el tiempo que dedicamos a actividades sedentarias (trabajar delante de un ordenador, navegar por internet, jugar con videoconsolas, ver la televisión), dedicando más tiempo a otras actividades que impliquen un mayor gasto energético.
 
-[Vídeo (YouTube) - _Taller Innovadieta: Actividad Física.UCM. Mayo 2014_ (UCM Multimedia) - (48:03)](https://www.youtube.com/watch?v=RRTIe8lYNs8)  
+{% youtube %}https://youtu.be/RRTIe8lYNs8{% endyoutube %}
 
-[Vídeo (YouTube) - Vídeo presentación Programa DAME10 (Descansos Activos Mediante Ejercicio) - (03:31)](https://www.youtube.com/watch?v=enxF1YbAgHg)
+{% youtube %}https://youtu.be/enxF1YbAgHg{% endyoutube %}
